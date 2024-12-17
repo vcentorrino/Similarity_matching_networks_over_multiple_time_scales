@@ -13,6 +13,3 @@ The repository contains the files:
 
 ## References
 [1] V. Centorrino, G. Russo, and F. Bullo, _XXXXXXXXXXX_, 2024, [URL](https://XXXXXXXXXXXX)
-
-
-**Authors of the final code and figures: Veronica Centorrino**.
