@@ -2,15 +2,15 @@
 
 ### Introduction
 
-This repository provides the code and data required to reproduce the simulations presented in the paper titled _XXXXXXXXXXXXXX_ by Veronica Centorrino, Prof. Giovanni Russo, and Prof. Francesco Bullo ([arXiv](https://XXXXXXXXXXXXXXX)).
+This repository contains the code and data required to reproduce the simulations presented in the paper titled _XXXXXXXXXXXXXX_ by Veronica Centorrino, Prof. Giovanni Russo, and Prof. Francesco Bullo ([arXiv](https://XXXXXXXXXXXXXXX)).
 
-The repository contains the following files:
+The repository includes the following files:
 
-(i) _2025-data_set_simulations_ with the dataset needed to replicate the figures featured in the Simulations Section of the manuscript, namely, Figures XXXXXXX.
+*_2025-data_set_simulations.zip_: a folder containing the dataset needed to replicate the figures featured in the Simulations Section of the manuscript, namely, Figures 4, 5, and 6.
 
-(ii)_2025-code_simulations_ with the code necessary to reproduce the numerical examples featured in the Simulations Section of the manuscript.
+*_2025-code_simulations.zip_ : a folder with the necessary scripts to reproduce the numerical examples featured in the Simulations Section of the manuscript.
 
-(iii) _2025-code_conjecture_ with the necessary code supporting Conjecture 1 discussed in the manuscript.
+*_2025-code_conjecture.py_ : a script supporting Conjecture 1 discussed in the manuscript.
 
 
 ## References
