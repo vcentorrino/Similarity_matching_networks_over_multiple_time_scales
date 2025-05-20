@@ -10,7 +10,7 @@ The repository includes the following files:
 
 *_2025-code_simulations.zip_: folder with the necessary scripts to reproduce the numerical examples featured in the Simulations Section of the manuscript.
 
-*_2025-code_conjecture_main.zip_: folder containing the script supporting Conjectures 1 and 2 discussed in the main body of the manuscript and the dataset needed to replicate Figure 8.
+*_2025-code_conjecture_main.py_: script supporting Conjectures 1 and 2 discussed in the main body.
 
 *_2025-code_conjecture_appendix.py_: a script supporting Conjectures 3 in Appendix D of the manuscript.
 
