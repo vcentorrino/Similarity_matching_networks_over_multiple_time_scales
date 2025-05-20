@@ -6,11 +6,13 @@ This repository contains the code and data required to reproduce the simulations
 
 The repository includes the following files:
 
-*_2025-data_set_simulations.zip_: a folder containing the dataset needed to replicate the figures featured in the Simulations Section of the manuscript, namely, Figures 4, 5, and 6.
+*_2025-data_set_simulations.zip_: folder containing the dataset needed to replicate the figures featured in the Simulations Section of the manuscript, namely, Figures 5, 6, and 7.
 
-*_2025-code_simulations.zip_ : a folder with the necessary scripts to reproduce the numerical examples featured in the Simulations Section of the manuscript.
+*_2025-code_simulations.zip_: folder with the necessary scripts to reproduce the numerical examples featured in the Simulations Section of the manuscript.
 
-*_2025-code_conjecture.py_ : a script supporting Conjecture 1 discussed in the manuscript.
+*_2025-code_conjecture_main.zip_: folder containing the script supporting Conjectures 1 and 2 discussed in the main body of the manuscript and the dataset needed to replicate Figure 8.
+
+*_2025-code_conjecture_appendix.py_: a script supporting Conjectures 3 in Appendix D of the manuscript.
 
 
 ## References
