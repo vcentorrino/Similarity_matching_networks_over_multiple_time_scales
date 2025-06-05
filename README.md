@@ -1,8 +1,8 @@
-# Code for the simulations in the paper "Similarity Matching Network: Hebbian Learning and Convergence Over Multiple Time Scales"
+# Code for the simulations in the paper "Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales"
 
 ### Introduction
 
-This repository contains the code and data required to reproduce the simulations presented in the paper titled _Similarity Matching Network: Hebbian Learning and Convergence Over Multiple Time Scales_ by Veronica Centorrino, Prof. Francesco Bullo, Prof. Giovanni Russo ([arXiv](https://XXXXXXXXXXXXXXX)).
+This repository contains the code and data required to reproduce the simulations presented in the paper titled _Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales_ by Veronica Centorrino, Prof. Francesco Bullo, Prof. Giovanni Russo ([arXiv](https://XXXXXXXXXXXXXXX)).
 
 The repository includes the following files:
 
@@ -16,4 +16,4 @@ The repository includes the following files:
 
 
 ## References
-[1] V. Centorrino, F. Bullo, and G. Russo _Similarity Matching Network: Hebbian Learning and Convergence Over Multiple Time Scales_, 2025, [URL](https://XXXXXXXXXXXX)
+[1] V. Centorrino, F. Bullo, and G. Russo _Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Time Scales_, 2025, [URL](https://XXXXXXXXXXXX)
